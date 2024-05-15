@@ -1,7 +1,7 @@
 # Simple bash units CAT/GREP
 
 
-## cat - concatenate and print files 
+## s21_cat - concatenate and print files 
 
 | № | Options | Description |
 | ------ | ------ | ------ |
@@ -54,7 +54,7 @@ In the context of the cat command in Linux, the -v flag is typically used to dis
 For instance, using cat -v file.txt, the cat command will display the contents of file.txt, replacing invisible characters such as end-of-line symbols or tabs with their visible representations. This can be helpful for debugging or analyzing text data, allowing users to see hidden characters within the text.
 
 
-## Global Regular Expression Print (grep)
+## s21_grep Global Regular Expression Print 
 
 | Option | Description |
 | --- | --- |
